@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  margin: 20px;
+}
+
+.file-item {
+  padding: 5px 10px;
+  margin-left: 20px;
+}
+
+.folder-item {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.folder-name {
+  font-weight: bold;
+}
+
+.folder-content {
+  margin-left: 20px;
+}
